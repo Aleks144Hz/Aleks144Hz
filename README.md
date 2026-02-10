@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+<h3 align="left">Stats:</h3>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Aleks144Hz&theme=dracula" height="150" alt="GitHub streak"/>
 </p>

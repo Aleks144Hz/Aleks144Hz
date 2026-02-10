@@ -46,10 +46,5 @@
 </div>
 
 <p align="left">
-  <img
-    src="https://metrics.lecoq.io/Aleks144Hz?template=classic&isocalendar=1&languages=1&followup=1&stars=1&theme=dracula"
-    height="150"
-    alt="GitHub metrics"
-  />
+  <img src="https://streak-stats.demolab.com?user=Aleks144Hz&theme=dracula" height="150" alt="GitHub streak"/>
 </p>
-

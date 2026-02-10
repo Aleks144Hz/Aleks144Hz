@@ -48,7 +48,7 @@
 <h3 align="left">Stats:</h3>
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Aleks144Hz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=Aleks144Hz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800"
     height="150"
     alt="GitHub stats"
   />
